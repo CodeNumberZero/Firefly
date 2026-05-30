@@ -10,7 +10,7 @@ export const siteConfig: SiteConfig = {
 	title: "Exdream",
 
 	// 站点副标题
-	subtitle: "暗码最严肃的code number 3",
+	subtitle: "zzz",
 
 	// 站点 URL
 	site_url: "https://exdream.cn",
